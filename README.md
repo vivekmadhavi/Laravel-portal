@@ -6,7 +6,7 @@ A Laravel-based portal that supports:
 - CRUD operations for employee data (admin only)  
 - Google and GitHub OAuth login  
 - Secure session handling  
-- PostgreSQL (e.g., Supabase) database support  
+- Mysql (e.g., Supabase) database support  
 
 ---
 
@@ -18,7 +18,7 @@ A Laravel-based portal that supports:
 - ✅ Employees can view their profile only  
 - ✅ Integrated Google & GitHub OAuth using Laravel Socialite  
 - ✅ Styled using Bootstrap 5  
-- ✅ Works with online PostgreSQL DB (e.g., Supabase)  
+- ✅ Works with mysql (e.g., Supabase)  
 
 ---
 
